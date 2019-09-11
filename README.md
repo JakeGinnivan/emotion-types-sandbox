@@ -1,4 +1,5 @@
 # Build stats
+```
 Files:           110
 Lines:         84080
 Nodes:        285703
@@ -13,3 +14,4 @@ Bind time:     0.45s
 Check time:    0.68s
 Emit time:     0.00s
 Total time:    2.09s
+```
