@@ -1,4 +1,5 @@
 # Emotion compilation diagnostics
+```
 Files:           108
 Lines:         83784
 Nodes:        284068
@@ -13,3 +14,4 @@ Bind time:     0.35s
 Check time:    0.18s
 Emit time:     0.00s
 Total time:    1.46s
+```
