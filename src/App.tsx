@@ -7,11 +7,18 @@ const StyledComponent = styled('div')({
   background: 'black'
 })
 
+const StyledComponent2 = styled('div')({
+  width: 100,
+  height: 100,
+  background: 'blue'
+})
+
 const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
         <StyledComponent />
+        <StyledComponent2 />
       </header>
     </div>
   );
