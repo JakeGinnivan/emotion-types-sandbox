@@ -1,4 +1,5 @@
-import styled, { CreateStyled } from '@emotion/styled'
+import styled from '@emotion/styled'
+import  { CreateThemedStyled } from 'emotion-theming'
 
 interface Theme {
   color: {
@@ -6,4 +7,4 @@ interface Theme {
   }
 }
 
-export default styled as CreateStyled<Theme>
+export default styled as CreateThemedStyled<Theme>
