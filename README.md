@@ -1,17 +1,17 @@
 # Build stats
 ```
-Files:           109
-Lines:         84009
-Nodes:        285505
-Identifiers:   99569
-Symbols:       67137
-Types:          6324
-Memory used: 118755K
-I/O read:      0.08s
+Files:           110
+Lines:         84054
+Nodes:        285640
+Identifiers:   99631
+Symbols:       67164
+Types:         11015
+Memory used: 123375K
+I/O read:      0.14s
 I/O write:     0.00s
-Parse time:    0.98s
-Bind time:     0.48s
-Check time:    0.45s
+Parse time:    1.09s
+Bind time:     0.40s
+Check time:    0.72s
 Emit time:     0.00s
-Total time:    1.90s
+Total time:    2.21s
 ```
