@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from '@emotion/styled'
+import styled from './emotion'
 
 interface StyledComponentProps {
   width: number
@@ -8,8 +8,10 @@ interface StyledComponentProps {
 const StyledComponent = styled('div')<StyledComponentProps>({
   width: 100,
   height: 100,
-  background: 'black'
-}, props => ({ width: props.width }))
+}, props => ({ 
+  width: props.width,
+  background: props.theme.color.primary
+ }))
 
 interface StyledComponentProps2 {
   height: number
