@@ -1,17 +1,20 @@
 # Build stats
 ```
-Files:           110
-Lines:         84080
-Nodes:        285703
-Identifiers:   99654
-Symbols:       67179
-Types:         11015
-Memory used: 115850K
-I/O read:      0.08s
-I/O write:     0.00s
-Parse time:    0.97s
-Bind time:     0.45s
-Check time:    0.68s
-Emit time:     0.00s
-Total time:    2.09s
+Files:                         131
+Lines:                      116867
+Nodes:                      335688
+Identifiers:                113082
+Symbols:                    189188
+Types:                       52818
+Memory used:               216034K
+Assignability cache size:   134323
+Identity cache size:            36
+Subtype cache size:             27
+Strict subtype cache size:       0
+I/O Read time:               0.03s
+Parse time:                  0.70s
+Program time:                0.88s
+Bind time:                   0.34s
+Check time:                  4.11s
+Total time:                  5.33s
 ```
